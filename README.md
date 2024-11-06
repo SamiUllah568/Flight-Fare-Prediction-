@@ -9,8 +9,6 @@
 - [Models](#models)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The Flight Fare Prediction project aims to predict flight ticket prices based on various features such as the airline, source and destination, date of journey, and other related factors. This project utilizes machine learning techniques to build a predictive model, providing insights into how various factors affect flight prices.
